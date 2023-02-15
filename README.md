@@ -15,4 +15,3 @@ Sure, here's the revised text using HTML:
   <li><strong>Exception Handling:</strong> Make your API resilient by throwing and handling unchecked exceptions inside <code>@ControllerAdvice</code>.</li>
   <li><strong>Spring Data JPA (SQL):</strong> Develop a REST API that interacts with an SQL database. Define relational tables that contain <code>@OneToMany</code> and <code>@ManyToMany</code> relationships.</li>
 </ul>
-<p>By completing this project, you will gain hands-on experience in building a fully functional Spring Boot web application with a REST API and a React front-end. You will also learn best practices for building clean, scalable, and maintainable code.</p>
