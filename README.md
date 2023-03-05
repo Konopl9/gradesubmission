@@ -1,5 +1,3 @@
-Sure, here's the revised text using HTML:
-
 <h2>Grade Submission Project</h2>
 <p>This project was created based on the <a href="https://www.udemy.com/course/the-complete-spring-boot-development-bootcamp/">Complete Spring Boot Development Bootcamp</a> course on Udemy. It covers the following topics:</p>
 <ul>
